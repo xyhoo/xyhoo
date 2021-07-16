@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xyhoo
 - 👀 I’m interested in RTC
 - 🌱 I’m currently learning RTC 
-- 💞️ I’m looking to collaborate on bytedance
+- 💞️ I’m work for ByteDance
 - 📫 How to reach me at wechat: amoshoo
 
 <!---
